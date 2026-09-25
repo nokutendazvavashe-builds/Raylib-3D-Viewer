@@ -1,6 +1,6 @@
 # 3D Asset Viewer (C++ & Raylib)
 
-A lightweight 3D asset viewer built in C++ using Raylib to render and inspect custom low-poly .obj models exported from Blender!
+A simple 3D asset viewer built in C++ using Raylib to render and inspect custom low-poly .obj models exported from Blender!
 
 ## 🚀 Features
 * Renders custom low-poly `.obj` meshes with multi-material support
