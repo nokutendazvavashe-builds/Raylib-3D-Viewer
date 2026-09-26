@@ -14,4 +14,3 @@ A simple 3D asset viewer built in C++ using Raylib to render and inspect custom 
 
 ## 📦 Tested Assets
 * Low-Poly Dagger / Sword
-* Low-Poly Classic Character Mesh
